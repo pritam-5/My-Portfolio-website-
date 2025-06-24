@@ -19,7 +19,7 @@ const About = () => {
               <div className="absolute -inset-1 bg-gradient-to-r from-neon-green to-neon-blue rounded-full blur opacity-75 group-hover:opacity-100 transition duration-1000 group-hover:duration-200 animate-pulse"></div>
               <div className="relative">
                 <img
-                  src="/lovable-uploads/d3ad8d80-d055-4fb1-b0b9-a000ccacbfaf.png"
+                  src="/Pritam-uploads/d3ad8d80-d055-4fb1-b0b9-a000ccacbfaf.png"
                   alt="Pritam - Computer Science Student & Web Developer"
                   className="w-80 h-80 rounded-full object-cover border-4 border-obsidian-700 shadow-2xl"
                 />
