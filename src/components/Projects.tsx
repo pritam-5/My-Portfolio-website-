@@ -12,7 +12,18 @@ const Projects = () => {
       liveUrl: '#',
       githubUrl: 'https://github.com/pritam-5/Snake-water-gun-game.git',
       featured: true
-    }
+    },
+    {
+      title: 'Safe Zones for Teens',
+     description:
+     'A web application created to offer a safe online environment for teenagers by providing helpful resources, educational content, and content filtering features.',
+     image: '/api/placeholder/400/250',
+    technologies: ['React', 'Tailwind CSS', 'Vercel'],
+    liveUrl: 'https://safe-zones-for-teens.vercel.app',
+    githubUrl: 'https://github.com/pritam-5/Safe-Zones-for-Teens.git',
+   featured: true
+   }
+
   ];
 
   return (
