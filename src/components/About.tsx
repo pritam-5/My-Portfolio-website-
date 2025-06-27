@@ -36,13 +36,13 @@ const About = () => {
             </p>
             
             <p className="text-lg text-gray-300 leading-relaxed">
-              I'm currently learning Full-Stack Web Development — working with HTML, CSS, JavaScript, 
-              Tailwind CSS, React, and Node.js. I enjoy creating futuristic, eye-catching websites 
-              with smooth animations and clean UI.
+              I'm currently learning Front-end Web Development — working with HTML, CSS, JavaScript, 
+              Tailwind CSS, React. I enjoy creating futuristic, eye-catching websites 
+              with smooth animations and clean UI with the help of AI.
             </p>
 
             <p className="text-lg text-gray-300 leading-relaxed">
-              Apart from coding, I'm also interested in <span className="text-neon-blue font-semibold">Artificial Intelligence and Machine Learning</span>, 
+              Apart from coding, I'm also interested in <span className="text-neon-blue font-semibold">Artificial Intelligence and Prompt Engineering</span>, 
               and I'm planning to dive deeper into this field soon.
             </p>
 
