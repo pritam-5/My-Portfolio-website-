@@ -72,11 +72,11 @@ const About = () => {
               </ul>
             </div>
             <div className="bg-obsidian-700/30 rounded-lg p-6 border border-gray-700">
-              <h4 className="text-xl font-semibold text-neon-blue mb-4">Backend & More</h4>
+              <h4 className="text-xl font-semibold text-neon-blue mb-4">AI-Assisted Tools & More</h4>
               <ul className="text-gray-300 space-y-2">
-                <li>• Node.js & Express</li>
-                <li>• Data Structures & Algorithms</li>
-                <li>• AI & Machine Learning (planned)</li>
+                <li>• Prompt Engineering for Web Projects</li>
+                <li>• Deployment & Version Control</li>
+                <li>• AI (planned)</li>
               </ul>
             </div>
           </div>
