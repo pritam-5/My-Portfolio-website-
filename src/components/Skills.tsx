@@ -9,14 +9,9 @@ const Skills = () => {
       skills: ['HTML5', 'CSS', 'JavaScript', 'Tailwind CSS', 'React']
     },
     {
-      title: 'Backend (Learning)',
-      color: 'neon-blue', 
-      skills: ['Node.js', 'Express.js', 'REST APIs', 'Database Design']
-    },
-    {
       title: 'Interests',
       color: 'neon-purple',
-      skills: ['AI & ML', 'Python', 'Data Science', 'Deep Learning']
+      skills: ['AI', 'Python', 'Prompt Engineering',]
     }
   ];
 
