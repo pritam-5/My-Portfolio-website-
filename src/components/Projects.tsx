@@ -22,7 +22,16 @@ const Projects = () => {
     liveUrl: 'https://safe-zones-for-teens.vercel.app',
     githubUrl: 'https://github.com/pritam-5/Safe-Zones-for-Teens.git',
    featured: true
-   }
+   },
+     {
+    title: 'GoldSecure Ledger Vault',
+    description: 'A Digital Gold Custody Record Web App for local jewellers and customers to securely log gold handovers, generate QR-coded receipts, and provide police-verifiable records.',
+    image: '/api/placeholder/400/250',
+    technologies: ['React', 'Vite', 'Tailwind CSS', 'Vercel'],
+    liveUrl: 'https://goldsecure-ledger.vercel.app',
+    githubUrl: 'https://github.com/pritam-5/goldsecure-ledger.git',
+    featured: true
+  },
 
   ];
 
